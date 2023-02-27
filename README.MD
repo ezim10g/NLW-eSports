@@ -8,7 +8,7 @@ Projeto construído no evento Next Level week da Rockeseat.
 
 [Clique aqui para acessar](https://ezim10g.github.io/NLW-eSports)
 
-## Tecnogias
+## Tecnologias
 
 - HTML
 - CSS
